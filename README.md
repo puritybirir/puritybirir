@@ -1,6 +1,5 @@
 ### Hi there 👋 Welcome to Purity Birir's Github Repo
 
--  💬 Ask me about anything frontend engineering
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/puritybirir/)
 -  😄 Pronouns: she/her
 
