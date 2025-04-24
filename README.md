@@ -1,7 +1,7 @@
 # 👩🏾‍💻 Senior Frontend Engineer | 8+ years of experience
 
 - 🔧 I am passionate about web performance, web accessibility, and progressive enhancement.
-- 🚀 I always stre to build fast, inclusive, and resilient web experiences.
+- 🚀 I always strive to build fast, inclusive, and resilient web experiences.
 - 🌱 I am currently exploring the latest in front-end technologies and optimizing user-first web experiences
 - 🤝🏾 I am open to collaborating and sharing knowledge on making the web better for everyone 🌍✨
  
