@@ -13,4 +13,3 @@
 [![An image of @birir's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/birir)](https://holopin.io/@birir)
 
 
-![](https://komarev.com/ghpvc/?username=puritybirir&label=PROFILE+VIEWS)
