@@ -1,4 +1,4 @@
-# 👩🏾‍💻 Senior Frontend Engineer | 8+ years of experience
+# 👩🏾‍💻 Senior Frontend Engineer | 9+ years of experience
 
 - 🔧 I am passionate about web performance, web accessibility, and progressive enhancement.
 - 🚀 I always strive to build fast, inclusive, and resilient web experiences.
